@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class error {
+class numberedRT {
     public static void main(String[] args)
     {
         try (Scanner ob = new Scanner(System.in)) 
