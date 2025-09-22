@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class makingsquare
+public class areaOfSquare
 {
     public static void main(String[] args) 
     {
